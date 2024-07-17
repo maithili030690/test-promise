@@ -1,0 +1,14 @@
+.card-header{
+    height:22vh;
+    text-transform: capitalize;
+    overflow: hidden;
+    text-overflow:ellipsis;
+   
+    
+}
+.card-body{
+    overflow: hidden;
+    height:100%;
+    text-overflow:ellipsis;
+}
+   
